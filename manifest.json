@@ -3,10 +3,11 @@
   "name": "JSON Collapsible",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Display JSON data as collapsible trees in your notes",
+  "description": "Display JSON data as collapsible trees in your notes.",
   "author": "Niaz Morshed",
   "authorUrl": "",
   "isDesktopOnly": false
 
 }
+
 
